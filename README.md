@@ -414,6 +414,6 @@ This project is released under **Educational Use License** with the following te
 
 [![University](https://img.shields.io/badge/Institution-University_of_Wah-blue.svg)](#)
 [![Course](https://img.shields.io/badge/Course-Assembly_Language-red.svg)](#)
-[![Semester](https://img.shields.io/badge/Semester-4rd-green.svg)](#)
+[![Semester](https://img.shields.io/badge/Semester-4th-green.svg)](#)
 
 </div>
