@@ -416,4 +416,6 @@ This project is released under **Educational Use License** with the following te
 [![Course](https://img.shields.io/badge/Course-Assembly_Language-red.svg)](#)
 [![Semester](https://img.shields.io/badge/Semester-4th-green.svg)](#)
 
+**⭐ Star this repository if it helped your cybersecurity learning journey!**
+
 </div>
