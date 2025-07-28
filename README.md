@@ -66,12 +66,12 @@ This project demonstrates the creation of a **sophisticated ransomware-style boo
 
 ### Core Development Tools
 
-- **🔧 NASM** - Netwide Assembler for raw binary compilation
-- **🖥️ VirtualBox** - Safe virtualization environment for testing  
-- **⚙️ VBoxManage** - Command-line VM and disk management
-- **🔨 dd Utility** - Low-level disk image manipulation
-- **🔍 HxD/xxd** - Hex editors for binary analysis and verification
-- **💿 Windows 7 ISO** - Base OS image for infection testing
+- **🔧 [NASM](https://www.nasm.us/)** - Netwide Assembler for raw binary compilation
+- **🖥️ [VirtualBox](https://www.virtualbox.org/)** - Safe virtualization environment for testing  
+- **⚙️ [VBoxManage](https://www.virtualbox.org/manual/ch08.html)** - Command-line VM and disk management
+- **🔨 [dd Utility](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html)** - Low-level disk image manipulation
+- **🔍 [HxD](https://mh-nexus.de/en/hxd/)/[xxd](https://linux.die.net/man/1/xxd)** - Hex editors for binary analysis and verification
+- **💿 [Windows 7 ISO](https://archive.org/details/Windows7-iso)** - Base OS image for infection testing
 
 ### Programming Environment
 
