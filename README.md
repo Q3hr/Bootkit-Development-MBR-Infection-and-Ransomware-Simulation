@@ -418,6 +418,11 @@ This project is released under **Educational Use License** with the following te
 [![Semester](https://img.shields.io/badge/Semester-4th-green.svg)](#)
 [![Project](https://img.shields.io/badge/Type-Research_Project-red.svg)](#)
 
+---
+
+**"Poke around and find out!"** 
+
 **⭐ Star this repository if it helped your cybersecurity learning journey!**
 
 </div>
+
