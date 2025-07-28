@@ -414,9 +414,9 @@ This project is released under **Educational Use License** with the following te
 
 [![University](https://img.shields.io/badge/Institution-University_of_Wah-blue.svg)](#)
 [![Department](https://img.shields.io/badge/Department-Cybersecurity-purple.svg)](#)
-[![Course](https://img.shields.io/badge/Course-Assembly_Language-orange.svg)](#)
+[![Course](https://img.shields.io/badge/Course-Assembly_Language-teal.svg)](#)
 [![Semester](https://img.shields.io/badge/Semester-4th-green.svg)](#)
-[![Project](https://img.shields.io/badge/Type-Research_Project-red.svg)](#)
+[![Project](https://img.shields.io/badge/Type-Research_Project-orange.svg)](#)
 
 ---
 
