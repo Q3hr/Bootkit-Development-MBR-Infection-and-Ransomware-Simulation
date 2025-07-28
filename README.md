@@ -413,8 +413,10 @@ This project is released under **Educational Use License** with the following te
 *Advancing cybersecurity education through hands-on technical research*
 
 [![University](https://img.shields.io/badge/Institution-University_of_Wah-blue.svg)](#)
-[![Course](https://img.shields.io/badge/Course-Assembly_Language-red.svg)](#)
+[![Department](https://img.shields.io/badge/Department-Cybersecurity-purple.svg)](#)
+[![Course](https://img.shields.io/badge/Course-Assembly_Language-orange.svg)](#)
 [![Semester](https://img.shields.io/badge/Semester-4th-green.svg)](#)
+[![Project](https://img.shields.io/badge/Type-Research_Project-red.svg)](#)
 
 **⭐ Star this repository if it helped your cybersecurity learning journey!**
 
