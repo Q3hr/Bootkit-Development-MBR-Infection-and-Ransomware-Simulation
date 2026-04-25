@@ -34,6 +34,30 @@ This project demonstrates the creation of a **sophisticated ransomware-style boo
 
 ---
 
+## 👥 Project Team & Contributions
+
+This project was collaboratively developed as part of an academic research initiative in low-level system programming and cybersecurity. The implementation focuses on Master Boot Record (MBR) manipulation, boot process control, and ransomware-style simulation using x86 Assembly.
+
+### 👨‍💻 Saad Ali  
+- **Registration Number:** UW-23-CY-BS-050  
+- **GitHub:** https://github.com/Saadi-09  
+
+**Contribution:**  
+Contributed to the development and integration of bootkit components, including assistance in Stage1 (MBR) logic and Stage2 payload behavior. Worked on configuring the virtual environment, disk image preparation, and testing of boot sequence execution. Also participated in debugging assembly-level issues and validating correct loading and execution of the ransomware interface.
+
+---
+
+### 👨‍💻 Muhammad Azfar Waqas  
+- **Registration Number:** UW-23-CY-BS-013  
+- **GitHub:** https://github.com/MAK554267  
+
+**Contribution:**  
+Assisted in implementation of assembly modules, including bootloader structure and payload functionality. Contributed to disk injection process using low-level tools, testing within VirtualBox environment, and verifying correct behavior of MBR infection and system response during execution.
+
+### Supervisor: Ma'am Ayesha Shoaib
+### Course: Computer Organization & Assembly Language (COAL)
+
+---
 ## 🏗️ Technical Architecture
 
 ### System Design Overview
