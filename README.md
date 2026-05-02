@@ -54,6 +54,17 @@ Contributed to the development and integration of bootkit components, including 
 **Contribution:**  
 Assisted in implementation of assembly modules, including bootloader structure and payload functionality. Contributed to disk injection process using low-level tools, testing within VirtualBox environment, and verifying correct behavior of MBR infection and system response during execution.
 
+---
+
+---
+
+### 👨‍💻 Muhammad Haris  
+- **Registration Number:** UW-22-CS-BS-032
+- **GitHub:** https://github.com/ShellCMD101
+
+**Contribution:**  
+Developed the core Stage1 bootloader logic and handled the 20-bit memory addressing for loading Stage2 into real-mode memory. Implemented low-level BIOS interrupt handlers (INT 0x13 and INT 0x10) for raw disk sector reading. Optimized the assembly code for the strict 512-byte MBR constraint.
+
 ### Supervisor: Ma'am Ayesha Shoaib
 ### Course: Computer Organization & Assembly Language (COAL)
 
